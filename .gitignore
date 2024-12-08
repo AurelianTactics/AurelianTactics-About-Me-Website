@@ -1,0 +1,4 @@
+# Private directory for sensitive information
+private/
+.DS_Store
+*.log
